@@ -11,4 +11,4 @@ Wie ich schon immer sage:
 > Blabla rein
 > Blabla raus.
 
-![GitHub Logo](https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg)Format: ![Pangolin am Baum](https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg)
+![Pangolin, mein Freund]<img src="https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg"/>()Format: ![Pangolin am Baum](https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg)
