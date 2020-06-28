@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Wie ich schon immer sage:
 > Blabla rein
 > Blabla raus.
+
+![GitHub Logo](https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg)Format: ![Pangolin am Baum](https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg)
