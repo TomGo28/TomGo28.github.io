@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Wie ich schon immer sage:
 > Blabla rein
 > Blabla raus.
+
+<img src="https://de.wikipedia.org/wiki/Schuppentiere#/media/Datei:Pangolin_borneo.jpg"/>
